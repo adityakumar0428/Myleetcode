@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/adityakumar0428/Myleetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Math
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/adityakumar0428/Myleetcode/tree/master/1486-xor-operation-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/adityakumar0428/Myleetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
