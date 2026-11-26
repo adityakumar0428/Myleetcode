@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityakumar0428/Myleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2349-design-a-number-container-system](https://github.com/adityakumar0428/Myleetcode/tree/master/2349-design-a-number-container-system) |
 ## String
 |  |
 | ------- |
@@ -83,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityakumar0428/Myleetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Design
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/adityakumar0428/Myleetcode/tree/master/2349-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/adityakumar0428/Myleetcode/tree/master/2349-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2349-design-a-number-container-system](https://github.com/adityakumar0428/Myleetcode/tree/master/2349-design-a-number-container-system) |
 <!---LeetCode Topics End-->
