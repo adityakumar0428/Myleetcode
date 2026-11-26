@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityakumar0428/Myleetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/adityakumar0428/Myleetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adityakumar0428/Myleetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/adityakumar0428/Myleetcode/tree/master/0125-valid-palindrome) |
 ## Bubble Sort
 |  |
 | ------- |
